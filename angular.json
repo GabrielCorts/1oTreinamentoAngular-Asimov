@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "Treinamento2"
+  "defaultProject": "Treinamento2",
+  "cli": {
+    "analytics": false
+  }
 }

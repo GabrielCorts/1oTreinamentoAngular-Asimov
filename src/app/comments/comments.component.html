@@ -1,0 +1,11 @@
+<textarea #comment></textarea>
+<input type="checkbox" #checkbox>
+<label>isJedi</label>
+<!-- <button style="margin-left: 10px;"
+(click)="saveComment(comment.value, checkbox.checked);">Send</button> -->
+
+<!--Modificação para limpar campos-->
+<button style="margin-left: 10px;"
+(click)="saveComment(comment.value, checkbox.checked);
+checkbox.checked = false;
+comment.value = ''">Send</button>
