@@ -1,4 +1,6 @@
-# Treinamento2
+# 1̣º Treinamento de Angular - Asimov Jr.
+
+Este é um exemplo referente à primeira entrega que deve ser feita do treinamento de Angular, o qual está sendo ministrado para os trainees da Asimov Jr. no ano de 2020, em dezembro.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.1.
 
